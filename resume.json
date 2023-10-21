@@ -1,0 +1,11 @@
+{
+    "name":"karthikraja",
+    "email": "karthikskmr@gmai.com",
+    "age":25,
+    "city":"trichy",
+    "isInidan":true,
+    "skills":"['html','css','js','php']",
+    "wrok-exprience":"I have overall 3.4 years of experience in web-development work on multiple projects like ems,hotel management system,food delivery application technolgy used laravel,html,css,vue. And worked in three different companys",
+    "education":"{SSC:'Goverment Hr Sec School Muthupet with 67%','HSC':'Government Hr Sec School Thamarankottai with 65%',College:'Pavendhr Bharathidan College of engg and tech trichy with 67%'}",
+    "Hobbies":"Playing games like TableTennis ,Carrom"
+}
